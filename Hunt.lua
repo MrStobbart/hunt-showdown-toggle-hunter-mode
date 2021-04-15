@@ -6,11 +6,11 @@ activate_script_button = 6
 script_activated = false
 
 primary_toggle_button = 2
-primary_letter_to_toggle = "o" -- What button to toggle
+primary_letter_to_toggle = "o" -- Aim down sight
 primary_letter_toggled = false
 
 secondary_toggle_button = 4 -- What mouse button should control the toggle
-secondary_letter_to_toggle = "l" -- What button to toggle
+secondary_letter_to_toggle = "l" -- make weapon ready
 secondary_letter_toggled = false
 
 function OnEvent(event, arg)
