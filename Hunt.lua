@@ -14,6 +14,8 @@ secondary_letter_to_toggle = "l" -- What button to toggle
 secondary_letter_toggled = false
 
 function OnEvent(event, arg)
+	-- Uncomment this to see what the number of the clicked mouse button is
+	-- OutputLogMessage(arg) 
 
 	if event == "MOUSE_BUTTON_PRESSED" then
 
