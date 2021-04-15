@@ -1,0 +1,1 @@
+# hunt-showdown-toggle-hunter-mode
